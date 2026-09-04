@@ -1,4 +1,4 @@
-# Codeforces Auto-Fill Problem Code
+# Codeforces Auto-Fill Problem Code - Chrome Extension
 
 A lightweight Chrome Extension (Manifest V3) that remembers the last problem you viewed on Codeforces and automatically fills in the problem code whenever you open the submit page.
 
